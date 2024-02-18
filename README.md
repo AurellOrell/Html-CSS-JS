@@ -1,4 +1,4 @@
-**README - Personal Project: Text-to-Speech, ToDo List, Calculator (HTML, CSS, JavaScript)**
+**README - Personal Project: (HTML, CSS, JavaScript)**
 
 ## Deskripsi Proyek
 
