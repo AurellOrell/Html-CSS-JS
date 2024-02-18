@@ -55,3 +55,8 @@ function calculateAge() {
 function getDaysInMonth(year, month) {
   return new Date(year, month, 0).getDate();
 }
+
+// for refresh or delete 
+function refresh() {
+  document.getElementById("date").value = "dd/mm/yyyy";
+}
